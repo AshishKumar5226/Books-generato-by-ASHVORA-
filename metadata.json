@@ -1,0 +1,5 @@
+{
+  "name": "ASHVORA Book Engine",
+  "description": "An AI-powered web application to generate full books with custom topics, styles, and chapter structures, ready for KDP publishing.",
+  "requestFramePermissions": []
+}
